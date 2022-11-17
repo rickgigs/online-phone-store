@@ -44,6 +44,7 @@
                                     </div>
                                     </div>
                                 </div>
+                                <!-- i build from scratch -->
                             </div>
                         </div>
                         <div class="col text-right align-items-center d-flex justify-content-end">
