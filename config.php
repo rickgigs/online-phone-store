@@ -1,3 +1,4 @@
+<!-- nsodifjpfjpf -->
 <?php
 ob_start();
 ini_set('date.timezone','Asia/Manila');
